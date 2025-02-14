@@ -1,0 +1,11 @@
+matplotlib
+numpy
+seaborn
+pandas
+langchain 
+langchain-community
+langchain_groq
+fastapi
+uvicorn
+python-dotenv
+openpyxl
